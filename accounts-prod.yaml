@@ -1,0 +1,13 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to MarksBank accounts related Prod APIs"
+  contactDetails:
+    name: "Smith Tai - Prod Lead"
+    email: "smith@emial.com"
+  onCallSupport:
+    - (777) 265-3765
+    - (777) 734-8371
+

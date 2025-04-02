@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to MarksBank accounts local related APIs"
+  contactDetails:
+    name: "Smith Tai - local Lead"
+    email: "smith@emial.com"
+  onCallSupport:
+    - (555) 265-3765
+    - (555) 734-8371
