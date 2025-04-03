@@ -3,9 +3,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to MarksBank accounts related Prod APIs"
+  message: "Welcome to MarksBank accounts related webhooks APIs"
   contactDetails:
-    name: "Smith Tai - Prod Lead"
+    name: "Smith Tai - production Lead"
     email: "{cipher}cd7e86d9718de48d7b6e8b0ade1131c15b63ffde95716dcd30c4e2fb52ae8833"
   onCallSupport:
     - (777) 265-3765
