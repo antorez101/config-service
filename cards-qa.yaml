@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to MarksBank cards related QA docker APIs"
+  contactDetails:
+    name: "Smith Tai - QA Lead"
+    email: "{cipher}cd7e86d9718de48d7b6e8b0ade1131c15b63ffde95716dcd30c4e2fb52ae8833"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
