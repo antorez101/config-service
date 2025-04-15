@@ -5,7 +5,7 @@ eureka:
   instances:
     preferIpAddress: true
   client:
-    registerWithEureka: true
-    fetchRegistry: true
-    serviceUrl:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
       defaultZone: "http://servicediscovery:8070/eureka/"
