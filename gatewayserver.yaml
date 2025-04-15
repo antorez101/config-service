@@ -2,10 +2,10 @@ server:
   port: 8072
 
 eureka:
-  instances:
+  instance:
     preferIpAddress: true
   client:
     fetch-registry: true
     register-with-eureka: true
     service-url:
-      defaultZone: "http://servicediscovery:8070/eureka/"
+      defaultZone: "http://localhost:8070/eureka/"
